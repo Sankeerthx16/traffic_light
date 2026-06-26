@@ -1,0 +1,52 @@
+body{
+    background-color: rgb(18, 93, 105);
+    display: flex;
+    
+}
+
+#x{
+background-color:rgb(11, 7, 1);
+height: 600px;
+width: 300px;
+margin-left: 200px;
+padding: 20px;
+
+}
+.y{
+    height: 100px;
+    width: 100px;
+    border:2px solid black;
+    border-radius: 50%;
+    margin: auto;
+    margin-top: 40px;
+    margin-right: -10px;
+    
+   
+}
+.row{
+    display: flex;
+    background-color: black;
+    margin: 20px 0;
+}
+.s{
+    margin: auto;
+    margin-top: 70px;
+  color: white;
+
+ padding: 10px;
+    background-color: black;
+    size: 40px;
+    
+}
+#r{
+    background-color: red;
+}
+#o{
+    background-color:rgba(245, 194, 29, 0.926);
+}
+#g{
+    background-color: rgb(22, 226, 22);
+}
+*{
+    background-color: antiquewhite;
+}
